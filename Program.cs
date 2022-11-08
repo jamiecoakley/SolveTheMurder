@@ -108,7 +108,12 @@ public class Program
         
 
         Console.Clear();
-        System.Console.WriteLine("----Murder Solve----\n");
+        System.Console.WriteLine(@"   
+ /   _____/ _____ _____  |  | |  |         \__    ___/_____  _  ______     /     \  __ _________  __| _/___________    /     \ ___.__. _______/  |_  ___________ ___.__.
+ \_____  \ /     \\__  \ |  | |  |    ______ |    | /  _ \ \/ \/ /    \   /  \ /  \|  |  \_  __ \/ __ |/ __ \_  __ \  /  \ /  <   |  |/  ___/\   __\/ __ \_  __ <   |  |
+ /        \  Y Y  \/ __ \|  |_|  |__ /_____/ |    |(  <_> )     /   |  \ /    Y    \  |  /|  | \/ /_/ \  ___/|  | \/ /    Y    \___  |\___ \  |  | \  ___/|  | \/\___  |
+/_______  /__|_|  (____  /____/____/         |____| \____/ \/\_/|___|  / \____|__  /____/ |__|  \____ |\___  >__|    \____|__  / ____/____  > |__|  \___  >__|   / ____|
+        \/      \/     \/                                            \/          \/                  \/    \/                \/\/         \/            \/       \/   ");
         System.Console.WriteLine("You are a Detective Clouseau, a small-town detective who’s just been assigned to a murder scene: the local bar, Skeeter's Bar and Cocktails. A long-time local resident, Stuart McCormick, had just finished a beer, when he suddenly fell off of his stool. Fellow patrons rushed to help him back up thinking the habitual drinker had merely lost his balance - only to find that he was dead! Your job is to prove yourself with old-fashioned detective work, and fast! \n\n\n");
 
         System.Console.WriteLine("Your Challenge: You have 10 moves to make to solve this case. You've narrowed it down to three suspects, and you need to come to a conclusion before the forensics come back - you've got a bet, and your pride, riding on this!");
