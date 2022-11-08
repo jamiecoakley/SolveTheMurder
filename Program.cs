@@ -181,7 +181,7 @@ public class Program
         Console.ReadKey();
     }
 
-    public static int userMoves = 100;
+    public static int userMoves = 9;
 
     public static void UserMove()
     {
